@@ -7,6 +7,8 @@
 
  - https://byui-cse.github.io/wdd330-ww-course/week01/team.html
 
+ - The sleep outside netify deploy repository: https://heartfelt-druid-85cd1a.netlify.app
+
 ### Prerequisites
 
 - You must have Node installed to run the following commands.
